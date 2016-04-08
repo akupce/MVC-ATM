@@ -1,0 +1,231 @@
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll.config
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\AutomatedTellerMachine.pdb
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Antlr3.Runtime.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\EntityFramework.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\EntityFramework.SqlServer.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Newtonsoft.Json.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Owin.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.Helpers.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.Mvc.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.Optimization.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.Razor.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.WebPages.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\WebGrease.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Antlr3.Runtime.pdb
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\EntityFramework.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\EntityFramework.SqlServer.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Newtonsoft.Json.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.Helpers.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.Mvc.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.Razor.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.WebPages.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\System.Web.Optimization.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.dll
+c:\Users\msullivan\Documents\Visual Studio 2013\Projects\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.pdb
+C:\Users\msullivan\documents\visual studio 2013\Projects\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.InitialCreate.resources
+C:\Users\msullivan\documents\visual studio 2013\Projects\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csproj.GenerateResource.Cache
+C:\Users\msullivan\documents\visual studio 2013\Projects\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.AccountNumberChanges.resources
+C:\Users\msullivan\documents\visual studio 2013\Projects\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csprojResolveAssemblyReference.cache
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll.config
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\AutomatedTellerMachine.pdb
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Antlr3.Runtime.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\EntityFramework.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\EntityFramework.SqlServer.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Newtonsoft.Json.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Owin.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.Helpers.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.Mvc.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.Optimization.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.Razor.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.WebPages.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\WebGrease.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Antlr3.Runtime.pdb
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\EntityFramework.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\EntityFramework.SqlServer.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Newtonsoft.Json.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.Helpers.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.Mvc.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.Razor.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.WebPages.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\System.Web.Optimization.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csprojResolveAssemblyReference.cache
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.InitialCreate.resources
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.AccountNumberChanges.resources
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csproj.GenerateResource.Cache
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch4\AutomatedTellerMachine_final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.pdb
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll.config
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\AutomatedTellerMachine.pdb
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Antlr3.Runtime.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\EntityFramework.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\EntityFramework.SqlServer.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Newtonsoft.Json.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Owin.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.Helpers.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.Mvc.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.Optimization.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.Razor.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.WebPages.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\WebGrease.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Antlr3.Runtime.pdb
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\EntityFramework.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\EntityFramework.SqlServer.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\Newtonsoft.Json.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.Helpers.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.Mvc.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.Razor.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.WebPages.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\bin\System.Web.Optimization.xml
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.InitialCreate.resources
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.AccountNumberChanges.resources
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csproj.GenerateResource.Cache
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.dll
+C:\Users\arturs.kupce\Downloads\Ex_Files_ASPNETMVC5_EssT\Ex_Files_ASPNETMVC5_EssT\Exercise Files\Ch4\Final\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.pdb
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll.config
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\AutomatedTellerMachine.pdb
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Antlr3.Runtime.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\EntityFramework.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\EntityFramework.SqlServer.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Newtonsoft.Json.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Owin.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.Helpers.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.Mvc.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.Optimization.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.Razor.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.WebPages.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\WebGrease.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Antlr3.Runtime.pdb
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\EntityFramework.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\EntityFramework.SqlServer.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\Newtonsoft.Json.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.Helpers.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.Mvc.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.Razor.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.WebPages.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\bin\System.Web.Optimization.xml
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csprojResolveAssemblyReference.cache
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.InitialCreate.resources
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.AccountNumberChanges.resources
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csproj.GenerateResource.Cache
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.dll
+C:\Users\arturs.kupce\Desktop\ATM My changes\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.pdb

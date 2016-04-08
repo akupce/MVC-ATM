@@ -1,0 +1,27 @@
+﻿@model AutomatedTellerMachine.Models.Transaction
+
+@{
+    ViewBag.Title = "QuickCash";
+}
+
+<h2>QuickCash</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <div>
+            <h4>You have withdrawn £100</h4>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to Menu", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
